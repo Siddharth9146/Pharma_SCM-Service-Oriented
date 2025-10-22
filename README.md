@@ -1,5 +1,5 @@
 # A simple service-oriented Pharma Supply Chain Management 
-// system built using .NET technologies.
+
 This project demonstrates the implementation of a service-oriented architecture (SOA) for managing the supply chain in the pharmaceutical industry. It consists of 3 services that communicate with each other to handle aspects of the supply chain, such as inventory management, order processing, and supplier tracking. Each service is built using ASP.NET Core and exposes RESTful APIs for interaction.
 The orchestrator service acts as a simple ESB (Enterprise Service Bus) that routes requests to the appropriate services based on the request type.
 
