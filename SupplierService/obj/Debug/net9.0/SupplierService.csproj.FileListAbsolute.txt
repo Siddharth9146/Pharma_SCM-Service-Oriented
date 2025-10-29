@@ -31,3 +31,37 @@
 /Users/sid/Documents/GitHub/SOA_Project/SupplierService/obj/Debug/net9.0/SupplierService.pdb
 /Users/sid/Documents/GitHub/SOA_Project/SupplierService/obj/Debug/net9.0/SupplierService.genruntimeconfig.cache
 /Users/sid/Documents/GitHub/SOA_Project/SupplierService/obj/Debug/net9.0/ref/SupplierService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/appsettings.Development.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/appsettings.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/SupplierService.staticwebassets.endpoints.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/SupplierService
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/SupplierService.deps.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/SupplierService.runtimeconfig.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/SupplierService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/SupplierService.pdb
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.csproj.AssemblyReference.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.AssemblyInfoInputs.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.AssemblyInfo.cs
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.csproj.CoreCompileInputs.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.MvcApplicationPartsAssemblyInfo.cs
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.MvcApplicationPartsAssemblyInfo.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.sourcelink.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/scopedcss/bundle/SupplierService.styles.css
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets.build.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets.development.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets/msbuild.SupplierService.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets/msbuild.SupplierService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets/msbuild.build.SupplierService.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.SupplierService.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.SupplierService.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/Supplier.360DD531.Up2Date
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/refint/SupplierService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.pdb
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/SupplierService.genruntimeconfig.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/Debug/net9.0/ref/SupplierService.dll

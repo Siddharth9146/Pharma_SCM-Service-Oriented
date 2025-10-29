@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sid/Documents/GitHub/SOA_Project/OrderService/OrderService.csproj",
+      "projectUniqueName": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrderService/OrderService.csproj",
       "projectName": "OrderService",
-      "projectPath": "/Users/sid/Documents/GitHub/SOA_Project/OrderService/OrderService.csproj",
+      "projectPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrderService/OrderService.csproj",
       "packagesPath": "/Users/sid/.nuget/packages/",
-      "outputPath": "/Users/sid/Documents/GitHub/SOA_Project/OrderService/obj/",
+      "outputPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrderService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sid/.nuget/NuGet/NuGet.Config"

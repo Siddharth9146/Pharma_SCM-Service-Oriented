@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/OrchestratorService.csproj": {}
+    "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/OrchestratorService.csproj": {}
   },
   "projects": {
-    "/Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/OrchestratorService.csproj": {
+    "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/OrchestratorService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/OrchestratorService.csproj",
+        "projectUniqueName": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/OrchestratorService.csproj",
         "projectName": "OrchestratorService",
-        "projectPath": "/Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/OrchestratorService.csproj",
+        "projectPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/OrchestratorService.csproj",
         "packagesPath": "/Users/sid/.nuget/packages/",
-        "outputPath": "/Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/obj/",
+        "outputPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sid/.nuget/NuGet/NuGet.Config"

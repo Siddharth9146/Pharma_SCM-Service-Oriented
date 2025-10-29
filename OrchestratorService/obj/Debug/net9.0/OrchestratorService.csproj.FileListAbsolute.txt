@@ -31,3 +31,37 @@
 /Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/obj/Debug/net9.0/OrchestratorService.pdb
 /Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/obj/Debug/net9.0/OrchestratorService.genruntimeconfig.cache
 /Users/sid/Documents/GitHub/SOA_Project/OrchestratorService/obj/Debug/net9.0/ref/OrchestratorService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/appsettings.Development.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/appsettings.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/OrchestratorService.staticwebassets.endpoints.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/OrchestratorService
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/OrchestratorService.deps.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/OrchestratorService.runtimeconfig.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/OrchestratorService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/OrchestratorService.pdb
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.csproj.AssemblyReference.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.AssemblyInfoInputs.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.AssemblyInfo.cs
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.csproj.CoreCompileInputs.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.MvcApplicationPartsAssemblyInfo.cs
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.MvcApplicationPartsAssemblyInfo.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.sourcelink.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/scopedcss/bundle/OrchestratorService.styles.css
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets.build.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets.development.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets/msbuild.OrchestratorService.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets/msbuild.OrchestratorService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets/msbuild.build.OrchestratorService.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.OrchestratorService.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.OrchestratorService.props
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/Orchestr.BE2AE868.Up2Date
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/refint/OrchestratorService.dll
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.pdb
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/OrchestratorService.genruntimeconfig.cache
+/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/OrchestratorService/obj/Debug/net9.0/ref/OrchestratorService.dll

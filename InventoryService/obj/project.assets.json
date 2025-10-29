@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sid/Documents/GitHub/SOA_Project/InventoryService/InventoryService.csproj",
+      "projectUniqueName": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/InventoryService/InventoryService.csproj",
       "projectName": "InventoryService",
-      "projectPath": "/Users/sid/Documents/GitHub/SOA_Project/InventoryService/InventoryService.csproj",
+      "projectPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/InventoryService/InventoryService.csproj",
       "packagesPath": "/Users/sid/.nuget/packages/",
-      "outputPath": "/Users/sid/Documents/GitHub/SOA_Project/InventoryService/obj/",
+      "outputPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/InventoryService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sid/.nuget/NuGet/NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrchestratorService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91b4540782dd9abb3cb488bc4f21f4832af66bcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05da8e028ae90d70579231aea96dec6970adcfab")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrchestratorService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrchestratorService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sid/Documents/GitHub/SOA_Project/SupplierService/SupplierService.csproj": {}
+    "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/SupplierService.csproj": {}
   },
   "projects": {
-    "/Users/sid/Documents/GitHub/SOA_Project/SupplierService/SupplierService.csproj": {
+    "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/SupplierService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sid/Documents/GitHub/SOA_Project/SupplierService/SupplierService.csproj",
+        "projectUniqueName": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/SupplierService.csproj",
         "projectName": "SupplierService",
-        "projectPath": "/Users/sid/Documents/GitHub/SOA_Project/SupplierService/SupplierService.csproj",
+        "projectPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/SupplierService.csproj",
         "packagesPath": "/Users/sid/.nuget/packages/",
-        "outputPath": "/Users/sid/Documents/GitHub/SOA_Project/SupplierService/obj/",
+        "outputPath": "/Users/sid/Documents/GitHub/Pharma_SCM Service Oriented/SupplierService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sid/.nuget/NuGet/NuGet.Config"
